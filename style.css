@@ -1,0 +1,46 @@
+.sidebar{
+  height: 100%;
+  width: 400px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(206, 250, 209);
+  overflow-x: hidden;
+  padding: 20px;
+}
+
+.drop-down{
+  font-size: 20px;
+  float: right;
+  position: relative;
+  top: 10px;
+}
+
+h2{
+  user-select: none;
+  border: 3px solid rgb(250, 1, 1);
+  padding: 5px;
+}
+
+br{
+  user-select: none;
+}
+
+#foto-file{
+  display: none;
+}
+
+#btn{
+  width: 170px;
+}
+
+.image{
+  position: relative;
+  left: 500px;
+  user-select: none;
+}
+
+#colorize-color-picker{
+  display: none;
+}
