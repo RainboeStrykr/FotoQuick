@@ -1,0 +1,65 @@
+[
+  {
+    "property": "brightness",
+    "value": 100,
+    "range": {
+      "min": 0,
+      "max": 100
+    },
+    "unit": "%"
+  },
+  {
+    "property": "contrast",
+    "value": 100,
+    "range": {
+      "min": 0,
+      "max": 200
+    },
+    "unit": "%"
+  },
+  {
+    "property": "saturate",
+    "value": 100,
+    "range": {
+      "min": 0,
+      "max": 200
+    },
+    "unit": "%"
+  },
+  {
+    "property": "grayscale",
+    "value": 0,
+    "range": {
+      "min": 0,
+      "max": 100
+    },
+    "unit": "%"
+  },
+  {
+    "property": "sepia",
+    "value": 0,
+    "range": {
+      "min": 0,
+      "max": 100
+    },
+    "unit": "%"
+  },
+  {
+    "property": "invert",
+    "value": 0,
+    "range": {
+      "min": 0,
+      "max": 100
+    },
+    "unit": "%"
+  },
+  {
+    "property": "hue-rotate",
+    "value": 0,
+    "range": {
+      "min": 0,
+      "max": 360
+    },
+    "unit": "deg"
+  }
+]

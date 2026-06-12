@@ -1,0 +1,52 @@
+{
+  "Upcoming": "Upcoming",
+  "Left": {
+    "Items": {
+      "One": "Crop",
+      "Two": "Text",
+      "Three": "Filter",
+      "Four": "Shortcuts",
+      "Five": "Settings"
+    }
+  },
+  "Right": {
+    "Items": {
+      "One": "Brightness",
+      "Two": "Contrast",
+      "Three": "Saturation",
+      "Four": "Grayscale",
+      "Five": "Sepia",
+      "Six": "Invert",
+      "Seven": "Hue-rotate"
+    }
+  },
+  "Tools": {
+    "Shortcuts": {
+      "Name": "Shortcuts",
+      "Items": {
+        "One": "Crop",
+        "Two": "Text",
+        "Three": "Filter",
+        "Four": "Settings"
+      }
+    },
+    "Settings": {
+      "Name": "Settings",
+      "Items": {
+        "One": "Language",
+        "Two": "Theme"
+      }
+    }
+  },
+  "Languages": {
+    "pt": "Portuguese",
+    "en": "English"
+  },
+  "DND": {
+    "Main": "Drag & Drop your image here",
+    "Or": "or",
+    "Label": "Browse image",
+    "Uploading": "Uploading...",
+    "UploadingTwo": "It'll take just a few seconds :)"
+  }
+}

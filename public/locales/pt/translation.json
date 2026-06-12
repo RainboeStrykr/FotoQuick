@@ -1,0 +1,53 @@
+{
+  "Upcoming": "Em breve",
+  "Left": {
+    "Items": {
+      "One": "Cortar",
+      "Two": "Texto",
+      "Three": "Filtros",
+      "Four": "Atalhos",
+      "Five": "Configurações"
+    }
+  },
+  "Right": {
+    "Items": {
+      "One": "Brilho",
+      "Two": "Contraste",
+      "Three": "Saturação",
+      "Four": "Tons de Cinza",
+      "Five": "Sépia",
+      "Six": "Inverter",
+      "Seven": "Tonalidade"
+    }
+  },
+  "Tools": {
+    "Shortcuts": {
+      "Name": "Atalhos",
+      "Items": {
+        "One": "Cortar",
+        "Two": "Texto",
+        "Three": "Filtros",
+        "Four": "Configurações"
+      }
+    },
+    "Settings": {
+      "Name": "Configurações",
+      "Items": {
+        "One": "Idioma",
+        "Two": "Tema"
+      }
+    }
+  },
+  "Languages": {
+    "pt": "Português",
+    "en": "Inglês"
+  },
+  "DND": {
+    "Main": "Arraste & Solte sua image aqui",
+    "Or": "ou",
+    "Label": "Procurar imagem",
+    "Uploading": "Carregando...",
+    "UploadingTwo": "Isso levará alguns segundos :)"
+  }
+}
+
